@@ -39,6 +39,6 @@ def main():
         choice = input("\nGenerate another password? (y/n): ").lower()
 
         if choice != 'y':
-            print("Thank you!")
+            print("Thank You...!")
             break
 main()
